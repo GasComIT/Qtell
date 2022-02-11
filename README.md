@@ -2,7 +2,9 @@
 
 # ⬡ 👓Qtell™ △▽ 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕-𝖀𝖘𝖊𝖗𝖇𝖔𝖙 ⬡
 𝘽𝙊𝙏 𝙄𝙉 𝘽𝙀𝙏𝘼
-ʏᴏᴜʀ ᴀꜱꜱɪꜱꜱᴛᴀɴᴛ ꜰᴏʀ ᴍᴀᴋɪɴɢ ʙᴏʀɪɴɢ ᴡʜᴀᴛꜱᴀᴘᴘ ᴀ ʙᴇᴛᴛᴇʀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴘᴘ! For security reasons, read this wiki [🔹Read🔹](https://github.com/gascomit/SECURITY.md)
+ʏᴏᴜʀ ᴀꜱꜱɪꜱꜱᴛᴀɴᴛ ꜰᴏʀ ᴍᴀᴋɪɴɢ ʙᴏʀɪɴɢ ᴡʜᴀᴛꜱᴀᴘᴘ ᴀ ʙᴇᴛᴛᴇʀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴘᴘ!
+
+🔹 For security reasons, read this wiki [🔹Tap here to Read🔹](https://github.com/gascomit/qtell/SECURITY.md)
 
 <p align="center">
   <img src="https://i.postimg.cc/GtQgX45F/photo.jpg"/>
