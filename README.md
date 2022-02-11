@@ -4,7 +4,7 @@
 𝘽𝙊𝙏 𝙄𝙉 𝘽𝙀𝙏𝘼
 ʏᴏᴜʀ ᴀꜱꜱɪꜱꜱᴛᴀɴᴛ ꜰᴏʀ ᴍᴀᴋɪɴɢ ʙᴏʀɪɴɢ ᴡʜᴀᴛꜱᴀᴘᴘ ᴀ ʙᴇᴛᴛᴇʀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴘᴘ!
 
-🔹 For security reasons, read this wiki [🔹Tap here to Read🔹](https://github.com/gascomit/qtell/SECURITY.md)
+🔹 For security reasons, read this wiki [🔹Tap here to Read🔹](https://github.com/GasComIT/Qtell/blob/main/SECURITY.md)
 
 <p align="center">
   <img src="https://i.postimg.cc/GtQgX45F/photo.jpg"/>
