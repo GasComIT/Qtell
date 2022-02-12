@@ -1,9 +1,9 @@
 {
-    "logo": "https://i.postimg.cc/fW5DtrMQ/Mizuki-min.png",
+    "logo": "https://i.postimg.cc/GtQgX45F/photo.jpg",
     "name": "Qtell",
     "repository": "https://github.com/gascomit/qtell.git",
     "stack": "container",
-    "description": "ᴀᴅᴠᴀɴᴄᴇᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ 80+ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ʙᴏᴛʜ ᴘʀɪᴠᴀᴛᴇ ᴀɴᴅ ɢʀᴏᴜᴘ-ᴜꜱᴀɢᴇ",
+    "description": "Qtell ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ 80+ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ʙᴏᴛʜ ᴘʀɪᴠᴀᴛᴇ ᴀɴᴅ ɢʀᴏᴜᴘ-ᴜꜱᴀɢᴇ",
     "env": {
         "QTELL": {
             "description": "Put Your Qtell Session Code.",
