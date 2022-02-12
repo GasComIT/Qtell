@@ -31,8 +31,8 @@
 - Make Heroku Account If You Don't Have already.
 - Link to [Heroku](https://dashboard.heroku.com/apps)
 - Get Your Heroku-Api Key From [Heroku API Key](https://dashboard.heroku.com/account)
-- Get Your Mee6 SessionCode from [![Generic badge](https://img.shields.io/badge/Mee6_Session-blue.svg)](https://replit.com/@red-alison/Qtell)
-- Head Over To [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/red-alison/Qtell.git) 
+- Get Your Mee6 SessionCode from [![Generic badge](https://img.shields.io/badge/Qtell_Session-blue.svg)](https://replit.com/@gascomit/Qtell)
+- Head Over To [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gascomit/Qtell.git) 
 - Put All The Informations In the Box given in heroku (env vars)
 - Click deploy and wait for deployment to get done (takes 10-15mins)
 - After Deployment is done a new button appears "Manage Apps"
@@ -62,5 +62,5 @@ http://www.apache.org/licenses
 —••÷[🎮 Qtell]÷••—
 𝘈𝘥𝘷𝘢𝘯𝘤𝘦 𝘞𝘩𝘢𝘵𝘴𝘢𝘱𝘱 𝘜𝘴𝘦𝘳𝘣𝘰𝘵
 has been licensed under Apache License
-𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 (𝐂) 𝟐𝟎𝟐𝟏 Royce Bob | GasCom IT | Alison
+𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 (𝐂) 𝟐𝟎𝟐𝟏 GasCom IT | Alison | Royce Bob
 ```
