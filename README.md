@@ -1,6 +1,6 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)<img align="centre" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="Qtell"/><img align="centre" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
-# ⬡ 👓Qtell™ △▽ 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕-𝖀𝖘𝖊𝖗𝖇𝖔𝖙 ⬡
+## ⬡ 👓Qtell™ △▽ WhatsApp-UserBot ⬡
 𝘽𝙊𝙏 𝙄𝙉 𝘽𝙀𝙏𝘼
 ʏᴏᴜʀ ᴀꜱꜱɪꜱꜱᴛᴀɴᴛ ꜰᴏʀ ᴍᴀᴋɪɴɢ ʙᴏʀɪɴɢ ᴡʜᴀᴛꜱᴀᴘᴘ ᴀ ʙᴇᴛᴛᴇʀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴘᴘ!
 
@@ -10,28 +10,27 @@
   <img src="https://i.ibb.co/RHZ1bcJ/Qtell-banner.jpg"/>
 </p>
 
-# ❓ 𝖂𝖍𝖞 𝕸𝖆𝖉𝖊 𝕿𝖍𝖎𝖘 𝕭𝖔𝖙?
+## ❓Who made this bot ?
+[Royce Bob El Willie](https://github.com/red-alison)
 
 ```sh
 💻 𝗪𝗵𝗮𝘁 𝗖𝗮𝗻 𝗕𝗼𝘁 𝗗𝗼???
 
-🎮Qtell
-🔸 ᴀᴅᴠᴀɴᴄᴇᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ 80+ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ʙᴏᴛʜ ᴘʀɪᴠᴀᴛᴇ ᴀɴᴅ ɢʀᴏᴜᴘ-ᴜꜱᴀɢᴇ
+🎮 Qtell
+🔸 Most advanced WhatsApp bot with 100+ commands, both public and private.
 🔸 Qtell is written in JavaScript and is by far the most advance Whatsapp Userbot.
 🔸 Use Qtell in both public-groups and private
 🔸 So many commands that will blow up the every-day use of boring whatsapp.
 ```
 
-# ⚡ 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙
- *video download and watch*
-- ꜰɪʀꜱᴛ ꜰᴏʀᴋ ᴀɴᴅ ꜱᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ (or else auto upgrading won't work)
-
+## ⚡ 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙
+*video download and watch*
 *text and link*
-- ꜰɪʀꜱᴛ ꜰᴏʀᴋ ᴀɴᴅ ꜱᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ (or else auto upgrading won't work)
+- St☆r and Fork this repo (or else auto upgrading won't work)
 - Make Heroku Account If You Don't Have already.
 - Link to [Heroku](https://dashboard.heroku.com/apps)
 - Get Your Heroku-Api Key From [Heroku API Key](https://dashboard.heroku.com/account)
-- Get Your Mee6 SessionCode from [![Generic badge](https://img.shields.io/badge/Qtell_Session-blue.svg)](https://replit.com/@gascomit/Qtell)
+- Get Your Qtell SessionCode from [![Generic badge](https://img.shields.io/badge/Qtell_Session-cyan.svg)](https://replit.com/@gascomit/Qtell)
 - Head Over To [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gascomit/Qtell.git) 
 - Put All The Informations In the Box given in heroku (env vars)
 - Click deploy and wait for deployment to get done (takes 10-15mins)
@@ -44,7 +43,7 @@
 🔸[ᴅɪꜱᴄᴏʀᴅ](https://discord.gg/RH3pFHsH)
 
 
-# 💡 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓
+# 💡 Inspiration
 ```
 )¤•• ʙᴀɪʟᴇʏꜱ ᴡʜᴀᴛꜱᴀᴘᴘ ʟɪʙʀᴀʀʏ [https://github.com/adiwajshing/Baileys]
 )¤•• ᴡʜᴀᴛꜱᴀᴘᴘ ᴡᴇʙ ᴀᴘɪ [https://github.com/pedroslopez/whatsapp-web.js/]
