@@ -1,9 +1,9 @@
 {
-    "logo": "https://i.postimg.cc/GtQgX45F/photo.jpg",
+    "logo": "https://i.ibb.co/RHZ1bcJ/Qtell-banner.jpg",
     "name": "Qtell",
     "repository": "https://github.com/gascomit/qtell.git",
     "stack": "container",
-    "description": "Qtell ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ 80+ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ʙᴏᴛʜ ᴘʀɪᴠᴀᴛᴇ ᴀɴᴅ ɢʀᴏᴜᴘ-ᴜꜱᴀɢᴇ",
+    "description": "Qtell Bot by GasCom IT, with 100+ commands,both private and public",
     "env": {
         "QTELL": {
             "description": "Put Your Qtell Session Code.",
