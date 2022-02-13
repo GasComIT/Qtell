@@ -7,7 +7,7 @@
 🔹 For security reasons, read this wiki [🔹Tap here to Read🔹](https://github.com/GasComIT/Qtell/blob/main/SECURITY.md)
 
 <p align="center">
-  <img src="https://i.postimg.cc/GtQgX45F/photo.jpg"/>
+  <img src="https://i.ibb.co/RHZ1bcJ/Qtell-banner.jpg"/>
 </p>
 
 # ❓ 𝖂𝖍𝖞 𝕸𝖆𝖉𝖊 𝕿𝖍𝖎𝖘 𝕭𝖔𝖙?
